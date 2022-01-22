@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sponton1x
 - 👀 I’m interested in Programming/Informatic
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on Discord
 
 <!---
