@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Sponton1x
-- 👀 I’m interested in Programming/Informatic
-- 🌱 I’m currently learning Python, C#
-- 💞️ I’m looking to collaborate on Discord
+# Hello World 👋
 
-<!---
-Sponton1x/Sponton1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* I'm Sponton and I'm a currlenly learning Python-Backend (ex. [Flask](https://flask.palletsprojects.com/en/2.0.x/))  <br>
+* I'd like to be a Pentester
+
+ 
+# Contact
+* Discord Sponton#4170
+ 
+ 
+ # Stats
+<details>
+ <summary>GitHub Stats</summary>
+ <br>
+ <img align="left" alt="Sponton1x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sponton1x&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
