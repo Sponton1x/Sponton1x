@@ -14,4 +14,6 @@
  <br>
  <img align="left" alt="Sponton1x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sponton1x&show_icons=true&hide_border=true&theme=radical" />
 
+ <br>
+ <img aling="left" alt="Sponton1x's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sponton1x"
 </details>
