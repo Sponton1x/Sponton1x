@@ -14,7 +14,7 @@ I currently learn ruby
  <summary>GitHub Stats</summary>
  <br>
  <img align="left" alt="Sponton1x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sponton1x&show_icons=true&hide_border=true&theme=radical" />
-</details>
+</details> <br>
 
 <h2>My Projects</h2>
 <h4>Discord bot</h4>
