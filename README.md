@@ -27,6 +27,11 @@ I currently learn ruby
   <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Voice-Assistant&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </div>
 
+<h4>Netpy</h4>
+<div>
+  <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Netpy&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+</div>
+
 <h3>Contact</h3> 
 <div>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white?style=for-the-badge&logo=appveyor" />
