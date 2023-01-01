@@ -1,7 +1,7 @@
 # Hello World
 <h3>I'm Sponton</h3>
 I know python and node.js.
-I currently learn ruby
+I currently learn cybersecurity
 
 <h3>Languages</h3>
 <div>
