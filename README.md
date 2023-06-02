@@ -1,12 +1,17 @@
 # Hello World
 <h3>I'm Sponton</h3>
 
-```
+```py
 SPONTON = 
-  {name: Sponton},
-  {Job: Penetration Tester},
-  {Tools: Kali Linux, Virtual Box, Essentialls Python & Node.js & Bash}
+  [name:'Sponton', Role: 'Penetration Tester']
 ```
+
+| Filed         | Skills              |
+| ------------- |:-------------------:|
+| Programming   | Python, Bash        |
+| Penetration Testing | Testing web and mobile applications, network infrastructure tests|
+| OS            | Widnows, Linux      |
+| Tools         | OwaspZAP, Metasploit, [Netpy](https://github.com/Sponton1x/Netpy), Nmap, etc.|
 
 <h3>Languages</h3>
 <div>
