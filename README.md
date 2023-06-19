@@ -16,7 +16,6 @@ SPONTON =
 <h3>Languages</h3>
 <div>
   <img src="https://img.shields.io/badge/python-v.3.9-blue?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/node.js-v.16-green?style=for-the-badge&logo=appveyor" />
 </div>
 
 
