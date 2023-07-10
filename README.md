@@ -3,7 +3,7 @@
 
 ```py
 SPONTON = 
-  [name:'Sponton', Role: 'Penetration Tester']
+  [name:'Sponton', Role: 'Entry-Level Junior Penetration Tester', 'Entry-Level Junior Developer']
 ```
 
 | Filed         | Skills              |
@@ -30,14 +30,15 @@ SPONTON =
   <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Voice-Assistant&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </div>
 
+<h4>Discord bot</h4>
+<div style="margin:15px">
+  <img href="https://github.com/Sponton1x/Netpy" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Netpy&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+</div>
+
 <h3>Contact</h3> 
 <div>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white?style=for-the-badge&logo=appveyor" />
 </div>
 
- # Stats
-<details>
- <summary>GitHub Stats</summary>
- <br>
+ # Stats<br>
  <img align="left" alt="Sponton1x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sponton1x&show_icons=true&hide_border=true&theme=radical" />
-</details> <br>
