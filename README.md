@@ -16,10 +16,14 @@ SPONTON =
 <h3>Languages</h3>
 <div>
   <img src="https://img.shields.io/badge/python-v.3.9-blue?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/javascript-node.js-gold?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/bash-v.5.12-red?style=for-the-badge&logo=appveyor" />
 </div>
 
 
-<h2>My Projects</h2>
+<h2>My Projects:</h2>
+
+<h3>Expirience as Developer</h3>
 <h4>Discord bot</h4>
 <div style="margin:15px">
   <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Discord.bot&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
@@ -30,7 +34,8 @@ SPONTON =
   <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Voice-Assistant&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </div>
 
-<h4>Discord bot</h4>
+<h3>Expirience as Penetration Tester</h3>
+<h4>Netpy</h4>
 <div style="margin:15px">
   <img href="https://github.com/Sponton1x/Netpy" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Netpy&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </div>
