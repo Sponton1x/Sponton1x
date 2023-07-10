@@ -1,49 +1,24 @@
-# Hello World
-<h3>I'm Sponton</h3>
+# Sponton1x
 
-```py
-SPONTON = 
-  [name:'Sponton', Role: 'Entry-Level Junior Penetration Tester', 'Entry-Level Junior Developer']
-```
+[![](https://visitcount.itsvg.in/api?id=Sponton1x&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| Filed         | Skills              |
-| ------------- |:-------------------:|
-| Programming   | Python, Bash        |
-| Penetration Testing | Testing web and mobile applications, network infrastructure tests|
-| OS            | Widnows, Linux      |
-| Tools         | OwaspZAP, Metasploit, [Netpy](https://github.com/Sponton1x/Netpy), Nmap, etc.|
-
-<h3>Languages</h3>
-<div>
-  <img src="https://img.shields.io/badge/python-v.3.9-blue?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/javascript-node.js-gold?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/bash-v.5.12-red?style=for-the-badge&logo=appveyor" />
-</div>
+## 💫 About Me:
+🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Python<br>💬  Ask me about anything related to Cyberecurity<br>👨‍💻  Read more about my projects at my [site](xyz.sponton1x.repl.co)<br>⚡  Fun fact: I also interesting arduino
 
 
-<h2>My Projects:</h2>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sponton_MS) 
 
-<h3>Expirience as Developer</h3>
-<h4>Discord bot</h4>
-<div style="margin:15px">
-  <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Discord.bot&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sponton1x&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sponton1x&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sponton1x&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h4>Voice Assistant</h4>
-<div>
-  <img href="https://github.com/Sponton1x/Discord.bot" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Voice-Assistant&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sponton1x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3>Expirience as Penetration Tester</h3>
-<h4>Netpy</h4>
-<div style="margin:15px">
-  <img href="https://github.com/Sponton1x/Netpy" src="https://github-readme-stats.vercel.app/api/pin?username=Sponton1x&repo=Netpy&title_color=1fbf27&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</div>
 
-<h3>Contact</h3> 
-<div>
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white?style=for-the-badge&logo=appveyor" />
-</div>
 
- # Stats<br>
- <img align="left" alt="Sponton1x's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sponton1x&show_icons=true&hide_border=true&theme=radical" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
