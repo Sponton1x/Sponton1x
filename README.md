@@ -5,6 +5,7 @@
 <div id='img'>
   <img src="https://tryhackme-badges.s3.amazonaws.com/Sponton.png" alt="TryHackMe">
   <img src="https://echoctf.red/profile/7055392/badge" alt="echoCTF">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6446e2f0e2725773749675ad?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 
