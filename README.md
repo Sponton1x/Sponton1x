@@ -1,31 +1,22 @@
-# Sponton1x
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Sponton1x" height="250" width="250">
+</p>
+<h1 align="center">Hi 👋, I'm Sponton1x</h1>
+<h3 align="center">A passionate backend developer from Poland intrested in cybersecurity.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Sponton1x&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sponton1x&label=Profile%20views&color=0e75b6&style=flat" alt="sponton1x" /> </p>
 
-<div id='img'>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Sponton.png" alt="TryHackMe">
-  <img src="https://echoctf.red/profile/7055392/badge" alt="echoCTF">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6446e2f0e2725773749675ad?variant=dark" alt="roadmap.sh"/></a>
-</div>
+- 🔭 I’m currently working on [Lesson4Future](https://lesson4future.com)
 
+- 🌱 I’m currently learning **Django, Python, C++, JavaScript.**
 
-## 💫 About Me:
-🔭  I’m currently working on something cool 😉<br>🌱  I’m currently learning Python<br>💬  Ask me about anything related to Cyberecurity<br>👨‍💻  Read more about my projects at my [site](xyz.sponton1x.repl.co)<br>⚡  Fun fact: I also interesting arduino
+- 👯 I’m looking to collaborate on [Netpy](https://github.com/Sponton1x/Netpy)
 
+- 💬 Ask me about **cybersecurity staff.**
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sponton_MS) 
+- 📫 How to reach me **Sponton1x@proton.me**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sponton1x&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sponton1x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sponton1x&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sponton1x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sponton1x&show_icons=true&locale=en&layout=compact" alt="sponton1x" /></p>
