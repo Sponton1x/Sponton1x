@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sponton1x&label=Profile%20views&color=0e75b6&style=flat" alt="sponton1x" /> </p>
 
-- 🔭 I’m currently working on [Lesson4Future](https://lesson4future.com)
+- 🔭 I’m currently working on [Netpy](https://github.com/Sponton1x/Netpy)
 
 - 🌱 I’m currently learning **Django, Python, C++, JavaScript.**
 
