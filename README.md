@@ -31,5 +31,4 @@
 
 <h3 align="center">A repository for only-use for school staff.</h3>
 
--  I’m currently preparing for pass [INF.03](https://informatyk.edu.pl/kwalifikacja-inf-03/) [scholwork](https://github.com/Sponton1x/schoolwork)
 -  I'm forced to learning C++, it doing quite average [C++](https://github.com/Sponton1x/cpp_school)
